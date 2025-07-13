@@ -2,7 +2,7 @@
 
 ### Многофункциональный bash-скрипт для обслуживания и защиты Linux-систем!
 
-![Скриншот интерфейса server.py](https://raw.githubusercontent.com/DenisPythoneer/BashKeeper/main/image/Screenshot.png)
+![Скриншот интерфейса BashKeeper](https://raw.githubusercontent.com/DenisPythoneer/BashKeeper/main/image/Screenshot.png)
 
 ### 🔥 Возможности
 
