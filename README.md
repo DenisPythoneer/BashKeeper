@@ -1,4 +1,4 @@
-# BashKeeper - инструмент для автоматизации Linux 🔧
+# 🔧BashKeeper - автоматизация Linux
 
 ![Скриншот интерфейса BashKeeper](https://raw.githubusercontent.com/DenisPythoneer/BashKeeper/main/image/Screenshot.png)
 
