@@ -46,15 +46,15 @@
 
     bash
 
-    git clone https://github.com/DenisPythoneer/Linux-Optimizer.git  
+    git clone https://github.com/DenisPythoneer/BashKeeper.git  
     
-    cd Linux-Optimizer  
+    cd BashKeeper
 
 Дайте права на выполнение:
 
     bash
 
-    chmod +x optimizer.sh  
+    chmod +x main_script.sh  
 
 ### 🛠 Использование
 
@@ -62,7 +62,7 @@
 
     bash
 
-    sudo ./optimizer.sh  
+    sudo ./main_script.sh  
 
 ### 📜 Лицензия
 
