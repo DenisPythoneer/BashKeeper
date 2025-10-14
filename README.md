@@ -1,7 +1,6 @@
 ![BashKeeper](https://img.shields.io/badge/Version-2.0-blue)
 ![Bash](https://img.shields.io/badge/Bash-5.0+-green)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu%2FCentOS%2FDebian-orange)
-![SystemD](https://img.shields.io/badge/SystemD-239+-red)
+![Linux](https://img.shields.io/badge/Linux)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 # 🔧 BashKeeper
