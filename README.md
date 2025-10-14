@@ -1,6 +1,7 @@
 ![BashKeeper](https://img.shields.io/badge/Version-2.0-blue)
 ![Bash](https://img.shields.io/badge/Bash-5.0+-green)
 ![Linux](https://img.shields.io/badge/Linux-Fedora%20%7C%20Arch%20%7C%20Kali-blue)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 # 🔧 BashKeeper
 
