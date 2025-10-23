@@ -9,6 +9,8 @@
 
 ### 💨 BashKeeper - это мощный инструмент для автоматизации Linux-систем, написанный на Bash
 
+#
+
 ![Скриншот интерфейса BashKeeper](https://raw.githubusercontent.com/DenisPythoneer/BashKeeper/main/image/Screenshot.png)
 
 ---
