@@ -1,3 +1,5 @@
+# 🔧 BashKeeper - мощный инструмент для автоматизации Linux-систем
+
 ![BashKeeper](https://img.shields.io/badge/Version-2.0-blue)
 ![Bash](https://img.shields.io/badge/Bash-5.0+-green)
 ![Linux](https://img.shields.io/badge/Linux-Fedora%20%7C%20Arch%20%7C%20Kali-blue)
@@ -5,11 +7,7 @@
 ![Automation](https://img.shields.io/badge/Automation-Scripting-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
-# 🔧 BashKeeper
-
-### 💨 BashKeeper - это мощный инструмент, предназначенный для автоматизации Linux-систем, написанный на Bash
-
-#
+**💨 BashKeeper - это мощный инструмент, предназначенный для автоматизации Linux-систем, написанный на Bash**
 
 ![Скриншот интерфейса BashKeeper](https://raw.githubusercontent.com/DenisPythoneer/BashKeeper/main/image/Screenshot.png)
 
